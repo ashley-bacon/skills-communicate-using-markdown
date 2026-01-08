@@ -1,1 +1,4 @@
 # <h1> Github Markdown Test
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
